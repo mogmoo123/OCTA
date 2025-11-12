@@ -35,4 +35,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
+    icon=['C:\\Users\\user\\Desktop\\OCTA\\srcs\\ORCA_Logo_2.ico'],
 )
