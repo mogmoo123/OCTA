@@ -1,7 +1,7 @@
 {
   "icon": "",
-  "complete_sound": "None",
-  "notfound_sound": "None",
-  "fail_sound": "None",
+  "complete_sound": "",
+  "notfound_sound": "",
+  "fail_sound": "",
   "defualt_path": "C:/ORCA_6.1.0/"
 }
